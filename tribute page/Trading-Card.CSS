@@ -1,0 +1,41 @@
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+.Animal-info{
+    font-style: italic;
+}
+ul{
+    font-style: italic ;
+    list-style-type: none;
+}
+span{
+    font-weight: bold;
+    font-style: normal;
+}
+div img ul{
+    padding: auto;
+    border-radius: 100px;
+}
+.card, ul, p{
+    text-align: left;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 10px;
+    background: #ddd;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,1);
+    max-width: 500px;
+    padding: 20px;
+    margin: ;
+}
+
+.animal-description {
+    font-size: 100px;
+    color: blue;
+}
+h2{
+    font-size: 2em;
+    margin: 10px o;
+    text-align: center;
+}
